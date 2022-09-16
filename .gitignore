@@ -140,3 +140,4 @@ local.properties
 
 ### VS Code ###
 .vscode/
+/src/main/java/com/algaworks/factorymethod/filelog/log_tax.txt

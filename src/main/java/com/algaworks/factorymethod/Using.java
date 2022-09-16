@@ -3,7 +3,7 @@ package com.algaworks.factorymethod;
 import com.algaworks.factorymethod.consolelog.ConsoleLogCreator;
 import com.algaworks.factorymethod.filelog.FileLogCreator;
 
-public class using {
+public class Using {
     public static void main(String[] args) {
         TaxCalculator taxCalculator = new TaxCalculator(new ConsoleLogCreator());
         taxCalculator.calculate(1_000);

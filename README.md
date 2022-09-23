@@ -1,5 +1,7 @@
 # design-patterns
 
+Foi criado um pacote para cada Design Pattern.
+
 ## Design patterns abordados no curso:
 
 - Factory Method

@@ -1,0 +1,17 @@
+<filmes>
+  <filme>
+    <nome>Maverick</nome>
+    <dataLancamento>2022-06-28</dataLancamento>
+    <tipoFilme>ANTIGO</tipoFilme>
+  </filme>
+  <filme>
+    <nome>Jurassic World</nome>
+    <dataLancamento>2018-03-01</dataLancamento>
+    <tipoFilme>ANTIGO</tipoFilme>
+  </filme>
+  <filme>
+    <nome>Thor Amor e Trovão</nome>
+    <dataLancamento>2022-09-01</dataLancamento>
+    <tipoFilme>NOVO</tipoFilme>
+  </filme>
+</filmes>

@@ -11,7 +11,7 @@ import java.util.List;
 
 public class XMLFilmeRepository implements FilmeRepository {
 
-    private static final String NOME_ARQUIVO = "filmes.xml";
+    private static final String NOME_ARQUIVO = "./src/main/resources/filmes.xml";
 
     private final XStream xstream;
 

@@ -1,0 +1,12 @@
+<contatos>
+  <contato>
+    <codigo>1</codigo>
+    <nome>Marcos</nome>
+    <telefone>9999-9999</telefone>
+  </contato>
+  <contato>
+    <codigo>2</codigo>
+    <nome>Juliana</nome>
+    <telefone>9988-9988</telefone>
+  </contato>
+</contatos>

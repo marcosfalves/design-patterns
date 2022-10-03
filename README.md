@@ -14,3 +14,4 @@ Foi criado um pacote para cada Design Pattern.
 - Dependency Injection
 - Decorator
 - Strategy
+- Chain-of-responsability
